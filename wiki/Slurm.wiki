@@ -11,3 +11,5 @@
 == Lua Submission Script ==
 
 == Health Check Script ==
+
+== Troubleshooting ==
